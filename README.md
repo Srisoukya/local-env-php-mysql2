@@ -1,2 +1,6 @@
-# local-env-php-mysql2
-Basic CRUD Application  Objective:  Develop a simple web application using PHP and MySQL to perform CRUD (Create, Read, Update, Delete) operations.  Implement basic user authentication.   Features:  1. Database Setup  MySQL database named blog.  Two tables:  posts (id, title, content, created_at)  users (id, username, password)   
+## local-env-php-mysql2
+ApexPlanet Web Development Internship - Task 2
+This repository contains the source code for Task-2 of the ApexPlanet Web Development Internship.
+
+##🔗 Explanation Video
+[Click here to watch the explanation video]{https://www.linkedin.com/posts/sri-soukya-nadipally-016449285_webdevelopment-php-mysql-activity-7331259441830420480-NcO0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVMgNIBlTy-Lr3GmRkuRNImeICFhs1LDbE}    
